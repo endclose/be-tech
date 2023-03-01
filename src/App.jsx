@@ -2,7 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/logo.svg";
 
 function App() {
-  const [count, setCount] = useState(0);
+  document.title = "Be-Tech";
 
   return (
     <div className="app">
