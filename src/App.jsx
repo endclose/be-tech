@@ -12,6 +12,7 @@ function App() {
       <h2>Creating web-based solutions for your business</h2>
       <h2>
         {count} <button onClick={clicked}>Click me!</button>
+        <tr></tr>
       </h2>
     </div>
   );
